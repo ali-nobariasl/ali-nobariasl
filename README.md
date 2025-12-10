@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/425df507b6c04c301faef719046e92b859c274f9ed80ab45f78838459fcbfa63/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30322f37382f33372f34372f3336305f465f3237383337343733385f7970526e3075744f566e656275686d7053724469776b7a46736471456d3061612e6a7067)
 <h1 align="center">Hi 👋, I'm ALi Nobari</h1>
-<h3 align="center">A Python and C# back-end developer</h3>
+<h3 align="center">Senior Backend Developer</h3>
 <image align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJpaXp4Z2Fnc3E3d2czcmN4OWdweG9rdGJyamloYmNoam5xajQxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-nobariasl&label=Profile%20views&color=0e75b6&style=flat" alt="ali-nobariasl" /> </p>
 
